@@ -1,0 +1,12 @@
+com.ibm.CORBA.authenticationTarget=BasicAuth
+com.ibm.CORBA.authenticationRetryEnabled=true
+com.ibm.CORBA.authenticationRetryCount=3
+com.ibm.CORBA.validateBasicAuth=true
+com.ibm.CORBA.securityServerHost=ECMUKDEMO22
+com.ibm.CORBA.securityServerPort=2809
+com.ibm.CORBA.loginTimeout=300
+com.ibm.CORBA.loginSource=prompt
+
+# RMI/IIOP user identity
+com.ibm.CORBA.loginUserid=wasadm
+com.ibm.CORBA.loginPassword=filenet

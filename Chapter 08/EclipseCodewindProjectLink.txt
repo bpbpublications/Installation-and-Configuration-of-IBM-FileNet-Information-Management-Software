@@ -1,0 +1,3 @@
+The 48.1 Gbytes of the Exclipse CodeWind project can be downloaded using the following link:
+
+http://archive.eclipse.org/archived_projects/codewind.tgz
